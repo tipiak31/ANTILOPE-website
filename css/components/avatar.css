@@ -1,0 +1,58 @@
+.avatar {
+
+    background-color: #f7f6f0;
+    display: flex;
+    align-items: center;
+    margin: 50px 10px;
+    
+
+}
+
+.avatar img {
+
+	width: 170px;
+    border-radius: 50%;
+}
+.avatar h3 {
+	color: grey;
+	font-size: 22px;
+	font-weight: lighter;
+
+}
+
+#coordinates {
+	color: grey;
+	font-size: 22px;
+	margin-left: 200px;
+	margin-top: -110px
+}
+i{
+	color: grey;
+	font-size: 40px;
+	margin-bottom: 20px
+}
+i:hover {
+	font-size: 46px;
+	transition: 0.3s;
+	margin bottom: -10px;
+	color: #220e1d;
+	border-radius: 30%;
+}
+
+.list-inline {
+
+	margin-left: 200px;
+	display: flex;
+	list-style: none;
+
+}
+#instagram {
+	margin-left: 39px
+}
+#facebook {
+	margin-left: 27px
+}
+
+
+
+
